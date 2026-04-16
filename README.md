@@ -22,3 +22,6 @@ Certexi is being shaped through real-world deployment in industrial operations a
 ## Thesis
 Most organizations still run on reported execution instead of verified execution.  
 I’m building the infrastructure that closes that gap.
+
+## Demos
+![](https://www.certexi.com/demos/dashboard.gif)
