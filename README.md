@@ -13,6 +13,9 @@ Building the stack for operational truth: sovereign intelligence, verifiable evi
 - [Prune](https://prune.systems) — engineering leverage and tooling
 - [Zenkit](https://github.com/carl0zen/zenkit) — lightweight AI-assisted builder toolkit
 
+## Adjacent venture
+- [Zenhouse](https://zenhouse.club) — hospitality, place-making, and experience design
+
 ## Thesis
 Most organizations still run on reported execution instead of verified execution.  
 I’m building the infrastructure that closes that gap.
