@@ -23,5 +23,5 @@ Certexi is being shaped through real-world deployment in industrial operations a
 Most organizations still run on reported execution instead of verified execution.  
 I’m building the infrastructure that closes that gap.
 
-## Demos
-![A](https://www.certexi.com/demos/dashboard.gif)
+![Certexi](https://www.certexi.com/demos/dashboard.gif) 
+
