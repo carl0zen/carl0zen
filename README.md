@@ -24,4 +24,4 @@ Most organizations still run on reported execution instead of verified execution
 I’m building the infrastructure that closes that gap.
 
 ## Demos
-![](https://www.certexi.com/demos/dashboard.gif)
+![A](https://www.certexi.com/demos/dashboard.gif)
