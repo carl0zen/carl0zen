@@ -1,16 +1,25 @@
-## Hi there 👋
+# Carlos Zen
 
-<!--
-**carl0zen/carl0zen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems for operational truth, verifiable evidence, and sovereign intelligence.
 
-Here are some ideas to get you started:
+## Core ecosystem
+- **Certexi** — sovereign operational intelligence and evidence systems for real-world operations
+- **Flowhash** — protocol-grade traceability and verification infrastructure
+- **Cliaura** — public distribution, narrative, and ecosystem layer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- Operational intelligence
+- Evidence-first workflows
+- Protocol design
+- Local-first / sovereign infrastructure
+- AI-assisted systems for enterprise reality capture
+
+## Selected repositories
+- Certexi
+- Flowhash
+- Cliaura
+- Zenkit
+
+## Current thesis
+Most organizations still run on reported execution instead of verified execution.  
+I’m building the systems layer that closes that gap.
