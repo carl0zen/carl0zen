@@ -1,6 +1,6 @@
 # Carlos Zen
 
-Building infrastructure for operational truth: sovereign intelligence, verifiable evidence, and protocol-grade traceability.
+Building infrastructure for operational truth: verifiable evidence, sovereign intelligence, and protocol-grade traceability.
 
 ## Core products
 - [Certexi](https://certexi.com) — sovereign operational evidence infrastructure
@@ -17,7 +17,7 @@ Building infrastructure for operational truth: sovereign intelligence, verifiabl
 - [Zenhouse](https://zenhouse.club) — hospitality and experience design
 
 ## Operating context
-Certexi is being shaped through real-world operational deployment and strategic logistics network exposure, including Grupo Amigo and Grupo Solmex.
+Certexi is being shaped through real-world deployment in industrial operations and strategic logistics network exposure, including Grupo Amigo and Grupo Solmex.
 
 ## Thesis
 Most organizations still run on reported execution instead of verified execution.  
